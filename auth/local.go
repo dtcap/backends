@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"code.google.com/p/go.crypto/bcrypt"
+	"golang.org/x/crypto/bcrypt"
 
 	cfg "github.com/mailhog/backends/config"
 	"github.com/mailhog/smtp"
