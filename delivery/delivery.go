@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mailhog/backends/auth"
+	"github.com/dtcap/backends/auth"
 	"github.com/mailhog/backends/config"
 	"github.com/mailhog/data"
 )

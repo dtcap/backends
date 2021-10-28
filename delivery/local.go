@@ -10,7 +10,7 @@ import (
 
 	"gopkg.in/fsnotify.v1"
 
-	"github.com/mailhog/backends/auth"
+	"github.com/dtcap/backends/auth"
 	"github.com/mailhog/backends/config"
 	"github.com/mailhog/data"
 )
