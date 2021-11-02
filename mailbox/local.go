@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/mailhog/backends/config"
-	"github.com/mailhog/backends/delivery"
+	"github.com/dtcap/backends/delivery"
 	"github.com/mailhog/backends/resolver"
 	"github.com/mailhog/data"
 )
