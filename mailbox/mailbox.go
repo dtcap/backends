@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mailhog/backends/config"
+	"github.com/dtcap/backends/config"
 	"github.com/dtcap/backends/delivery"
-	"github.com/mailhog/backends/resolver"
+	"github.com/dtcap/backends/resolver"
 )
 
 // Service represents a delivery service implementation

@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/mailhog/backends/config"
+	"github.com/dtcap/backends/config"
 )
 
 // Service represents an address resolver implementation

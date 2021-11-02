@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/crypto/bcrypt"
 
-	cfg "github.com/mailhog/backends/config"
+	cfg "github.com/dtcap/backends/config"
 	"github.com/mailhog/smtp"
 )
 
